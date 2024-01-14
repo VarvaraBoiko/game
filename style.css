@@ -1,0 +1,41 @@
+header{
+    background-color: rgb(216, 118, 252);
+    display: flex;
+    justify-content: center;
+ }
+ footer{
+    background-color: rgba(216, 118, 252);
+    display: flex;
+    justify-content: center
+ }
+ .nav-list{
+    display: flex;
+    gap: 50px;
+ }
+
+ .parts{
+    display: flex;
+    flex-direction: row;
+    gap: 250px;
+ }
+ .play{
+    display: flex;
+    margin-top: 2%;
+    margin-bottom: 2%;
+ }
+ .Welcome{
+   margin-left: 35%;
+   
+ }
+ .play{
+    gap: 35px;
+ }
+ul{
+   list-style: none;
+}
+.here{
+   list-style: circle;
+}
+.funny{
+   gap: 80px;
+}
